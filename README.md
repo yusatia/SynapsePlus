@@ -9,7 +9,6 @@
 ## About
 Synapse+ is an *hackable¹, external, extensive, lightweight and user-friendly interface* completely made in [*Node.js*](https://nodejs.org) using various libraries for the usage ease of the end-user. Its roots are grounded on the simplicity aesthetic standards we have today.
 
-¹: hackable used in the context as in atom is a hackable text editor.
 ## Overview
 <ul>
     <li>Synapse+ gives you a chance to experience a refined user interface that doesn't look like buttons and textboxes smashed up and mixed together in a window effortlessly.</li>
